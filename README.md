@@ -1,5 +1,5 @@
 # 💫 About Me:
-- 👋 Hi, I’m @sarthakKapoor05<br>- 👀 I’m interested in Mobile application development <br>- 🌱 I’m currently learning jetpack compose <br>- 💞️ I’m looking to collaborate on .Android app's and jetpack compose project <br>- 📫 How to reach me --> @sarthak._.kapoor.__<br>
+- 👋 Hi, I’m @sarthakKapoor05<br>- 👀 I’m interested in Mobile application development <br>- 🌱 I’m currently learning jetpack compose <br>- 💞️ I’m looking to collaborate on .Android app's and jetpack compose project <br>- 📫 How to reach me DM me 😊<br>
 
 
 ## 🌐 Socials:
