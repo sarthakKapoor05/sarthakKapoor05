@@ -1,8 +1,7 @@
 # 💫 About Me:
-- 👋 Hi, I’m Sarthak Kapoor <br>- 👀 I’m interested in Mobile application development <br>- 🌱 I’m currently learning jetpack compose <br>- 💞️ I’m looking to collaborate on .Android app's and jetpack compose project <br>- 📫 How to reach me DM me 😊<br>
+- 👋 Hi, I’m Sarthak Kapoor <br>
 
-
-## 🌐 Socials:
+## 🌐 Find Me Here:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/sarthak._.kapoor.__) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/sarthak-kapoor-69088b263) 
 
 
